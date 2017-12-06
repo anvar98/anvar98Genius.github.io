@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<style type="text/css">
+	
+	body {
+		background-position: center;
+		background-color: lightblue;
+	
+	}
+	
+ 
+    h1 {
+    background-size: 150%;
+    background-color: #A52A2A;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    ;border:2px solid tomato;
+    font-family: caveat;
+    font-size: 150%;
+    text-shadow: 3px 7px 5px;
+    font-size: xx-large;
+    }
+
+
+    ul {
+    list-style-type: none;
+    margin: 8px;
+    padding: 3px;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+
+}
+
+li a:hover {
+    background-color: #111111;
+
+}
+
+address {
+	text-align: bottom-end;
+	font-family: lora;
+
+}
+
+
+.header, .address {
+    background-color: grey;
+    color: white;
+    padding: 15px;
+    margin: 5px;
+
+  }
+  .footer {
+  	text-align: center;
+  	color: Dodgergreen;
+  	border:2px solid green;
+  	padding: 5px;
+  	margin: 2px;
+  }
+
+nav {
+    float: right;
+    max-width: 400px;
+    margin: 6px;
+    padding: 2em;
+    background-color: hsl(50,55%,45%);
+
+
+}
+
+a {
+	color:rgb(185,64,72);
+	margin-right: 2px;
+	padding-right: 2px;
+}
+
+h4 {
+	font-family:  sans-serif;
+}
+
+p {
+	font-family: lato;
+}
